@@ -1,0 +1,30 @@
+.rsvp {
+    padding: 20px;
+    background-color: #f0f1e8;
+    text-align: center;
+  }
+  
+  .rsvp h3 {
+    font-size: 1.5rem;
+    color: #6a8f72;
+    margin-bottom: 10px;
+  }
+  
+  .rsvp p {
+    font-size: 1.1rem;
+    color: #2b473c;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2b473c;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .button:hover {
+    background-color: #1a3227;
+  }

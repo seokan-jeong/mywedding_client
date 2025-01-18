@@ -1,0 +1,17 @@
+.gallery {
+    padding: 20px;
+    background-color: #f0f1e8;
+    text-align: center;
+  }
+  
+  .gallery-image {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .gallery p {
+    font-size: 1rem;
+    color: #2b473c;
+    margin-top: 10px;
+  }

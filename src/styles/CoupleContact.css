@@ -1,0 +1,15 @@
+.couple-contact {
+    padding: 20px;
+    background-color: #f8f6f2;
+    text-align: center;
+  }
+  
+  .contact-list {
+    margin-top: 20px;
+  }
+  
+  .contact-list p {
+    font-size: 1rem;
+    color: #2b473c;
+    margin: 10px 0;
+  }
